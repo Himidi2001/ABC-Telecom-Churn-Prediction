@@ -47,4 +47,5 @@ The models were compared using their accuracy and classification performance to 
 3. Install the required Python libraries.
 4. Run the Python file:
 
+   ```bash
    python main.py
