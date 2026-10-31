@@ -40,6 +40,16 @@ The models were compared using their accuracy and classification performance to 
 | Stayed | 565 | 5 |
 | Churned | 39 | 58 |
 
+## Project Structure
+
+ABC-Telecom-Churn-Prediction/
+│
+├── main.py
+├── README.md
+├── requirements.txt
+├── model_performance.png
+└── confusion_matrix.png
+
 ## How to Run the Project
 
 1. Clone or download this repository.
