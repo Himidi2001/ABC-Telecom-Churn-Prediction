@@ -51,8 +51,11 @@ The models were compared using their accuracy and classification performance to 
 ## How to Run the Project
 1. Clone or download this repository.
 2. Open the project folder in VS Code.
-3. Install the required Python libraries.
-4. Run the Python file:
+3. Install the required libraries:
 
-   ```bash
+   pip install -r requirements.txt
+
+4. Make sure `telecom_data.csv` is in the same folder as `main.py`.
+5. Run the project:
+
    python main.py
