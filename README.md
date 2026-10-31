@@ -42,16 +42,13 @@ The models were compared using their accuracy and classification performance to 
 
 ## Project Structure
 
-ABC-Telecom-Churn-Prediction/
-│
-├── main.py
-├── README.md
-├── requirements.txt
-├── model_performance.png
-└── confusion_matrix.png
+- `main.py` — Main Python program
+- `README.md` — Project documentation
+- `requirements.txt` — Required Python libraries
+- `model_performance.png` — Model performance screenshot
+- `confusion_matrix.png` — Confusion matrix screenshot
 
 ## How to Run the Project
-
 1. Clone or download this repository.
 2. Open the project folder in VS Code.
 3. Install the required Python libraries.
